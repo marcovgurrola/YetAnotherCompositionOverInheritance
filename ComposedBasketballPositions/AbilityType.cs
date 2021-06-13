@@ -1,23 +1,20 @@
 ﻿namespace ComposedBasketballPositions
 {
-  public enum AbilityType
-  {
-    BallHandle,
-    Score,
-    Shot,
-    Steal,
-    Block,
-    Assit,
-    FreeThrow,
-    ThreePoint,
-    Rebound,
-    Attack,
-    Defense,
-    FoulAccumulation,
-    AlmostAboveAverageOverall,
-    AboveAverageOverall,
-    HighAboveAverageOverall,
-    GoodOnAllCategories,
-    Minutes
-  }
+    public enum AbilityType
+    {
+        Attack,
+        Score,
+        Shot,
+        Assit,
+        FreeThrow,
+        ThreePoint,
+        Defense, 
+        Steal,
+        Block,
+        BallHandle,
+        Rebound,
+        FoulAccumulation,
+        AboveAverageOverall,
+        Minutes
+    }
 }
