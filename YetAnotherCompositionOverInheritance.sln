@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposedBasketballPositions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComposedBasketballPositionsTests", "ComposedBasketballPositionsTests\ComposedBasketballPositionsTests.csproj", "{8AA96E2D-9CD8-462B-A9B3-417D5704685B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritedBasketballPositionsTests", "InheritedBasketballPositionsTests\InheritedBasketballPositionsTests.csproj", "{D93EEC71-9413-4C3F-AE78-7806345FA1A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8AA96E2D-9CD8-462B-A9B3-417D5704685B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA96E2D-9CD8-462B-A9B3-417D5704685B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA96E2D-9CD8-462B-A9B3-417D5704685B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93EEC71-9413-4C3F-AE78-7806345FA1A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93EEC71-9413-4C3F-AE78-7806345FA1A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93EEC71-9413-4C3F-AE78-7806345FA1A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93EEC71-9413-4C3F-AE78-7806345FA1A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

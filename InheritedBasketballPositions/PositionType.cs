@@ -1,4 +1,4 @@
-﻿namespace ComposedBasketballPositions
+﻿namespace InheritedBasketballPositions
 {
     /// <summary> Types from higher to lower income range </summary>
     public enum PositionType

@@ -4,12 +4,12 @@ namespace ComposedBasketballPositions
 {
     public partial class Position
     {
-        public int Category { get; set; }
+        public int IncomeRange { get; set; }
         public Dictionary<AbilityType, int> AbilityTypes { get; set; }
 
-        public Position(int category)
+        public Position(int incomeRange)
         {
-            Category = category;
+            IncomeRange = incomeRange;
             AbilityTypes = new Dictionary<AbilityType, int>();
         }
 
